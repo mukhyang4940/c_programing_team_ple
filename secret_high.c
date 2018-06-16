@@ -19,6 +19,7 @@
 			continue;
 	}
 } */
+//새로운 주석을 추가했다.
 void secret_high(int high[24][50])
 {
 	int i;
